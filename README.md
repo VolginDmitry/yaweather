@@ -12,6 +12,4 @@ import sqlite3 as sl
 
 import datetime
 
-![image](https://user-images.githubusercontent.com/111370737/193848050-63d413c6-6a98-4c4d-96e9-ad232f9829ad.png)
-
 ![image](https://user-images.githubusercontent.com/111370737/193848817-e78875ad-96b5-4b36-b651-1e79144d87de.png)
