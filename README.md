@@ -4,7 +4,7 @@
 
 Для работы скрипта требуются следующие библиотеки:
 
-*import [pandas]([http://example.com/](https://pandas.pydata.org/docs/) "Документация")*
+import [pandas]([http://example.com/](https://pandas.pydata.org/docs/) "Документация")
 
 *from yaweather import Russia, YaWeather*
 
