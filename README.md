@@ -10,7 +10,7 @@
 
 *import [sqlite3](https://docs.python.org/3/library/sqlite3.html)*
 
-*import datetime*
+*import [datetime](https://docs.python.org/3/library/datetime.html)*
 
 ## Формат предоставления данных в excel:
 
