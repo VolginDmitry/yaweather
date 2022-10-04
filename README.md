@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/111370737/193848817-e78875ad-96b5-4b36-b651-1e79144d87de.png)
 
-* date - дата, на которую сделан прогноз погоды
+* ***date*** - дата, на которую сделан прогноз погоды
 * time_of_day - время суток. Возможные значения: morning - утро, day - день, evening - вечер, night - ночь.
 * temp_min - минимальная температура time_of_day.
 * temp_max - максимальная температура time_of_day.
