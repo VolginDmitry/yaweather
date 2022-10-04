@@ -115,13 +115,13 @@
   a sharp drop in atmospheric pressure is expected - ожидается резкое увеличение атмосферного давления.
   
   " " - не ожидается резкого увеличения атмосферного давления.
-  
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
-('Samara', '03-10-2022 13:53', 'successfully')
-('Jhsdcb', '03-10-2022 13:58', 'error')
-('Samara', '03-10-2022 13:58', 'successfully')
+## Формат предоставления данных в sqlite:
+
+| city_name     | date              | request_status |
+| ------------- |:-----------------:| --------------:|
+| Samara        | 03-10-2022 13:53' | successfully   |
+| Jhsdcb        | 03-10-2022 13:58  | error          |
+| Samara        | 03-10-2022 13:58  | successfully   |
+
+
