@@ -25,6 +25,7 @@
 
 
 clear — ясно.
+
 partly-cloudy — малооблачно.
 cloudy — облачно с прояснениями.
 overcast — пасмурно.
