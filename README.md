@@ -4,13 +4,13 @@
 
 Для работы скрипта требуются следующие библиотеки:
 
-*import pandas as pd
+*import pandas as pd*
 
-*from yaweather import Russia, YaWeather
+*from yaweather import Russia, YaWeather*
 
-*import sqlite3 as sl
+*import sqlite3 as sl*
 
-*import datetime
+*import datetime*
 
 Формат предоставления данных в excel:
 
