@@ -50,7 +50,7 @@
 * ***time_of_day*** - время суток. Возможные значения: morning - утро, day - день, evening - вечер, night - ночь.
 * ***temp_min*** - минимальная температура time_of_day.
 * ***temp_max*** - максимальная температура time_of_day.
-* ***average_daylight_temperature*** - средняя температура за световой день.
+* ***average_daylight_temperature*** - средняя температура за световой день(time_of_day != night).
 * ***condition*** - состояние погоды. Возможные значения:
 
 
