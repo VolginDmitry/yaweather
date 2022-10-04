@@ -120,7 +120,7 @@
 
 | city_name     | date              | request_status |
 | ------------- |:-----------------:| --------------:|
-| Samara        | 03-10-2022 13:53' | successfully   |
+| Samara        | 03-10-2022 13:53  | successfully   |
 | Jhsdcb        | 03-10-2022 13:58  | error          |
 | Samara        | 03-10-2022 13:58  | successfully   |
 
