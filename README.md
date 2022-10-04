@@ -12,6 +12,6 @@
 
 *import datetime*
 
-_Формат предоставления данных в excel:_
+_Формат предоставления данных в excel:
 
 ![image](https://user-images.githubusercontent.com/111370737/193848817-e78875ad-96b5-4b36-b651-1e79144d87de.png)
