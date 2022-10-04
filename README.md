@@ -4,11 +4,11 @@
 
 Для работы скрипта требуются следующие библиотеки:
 
-*import pandas as pd*
+*import [pandas]([http://example.com/](https://pandas.pydata.org/docs/) "Документация")*
 
 *from yaweather import Russia, YaWeather*
 
-*import sqlite3 as sl*
+*import sqlite3*
 
 *import datetime*
 
