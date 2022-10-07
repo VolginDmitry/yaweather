@@ -12,39 +12,14 @@
 
 *import [datetime](https://docs.python.org/3/library/datetime.html)*
 
-Когда уже полностью написал скрипт, то заметил, что библиотека yaweather работает только с ограниченным списком городов:
-Moscow,
-SaintPetersburg,
-Novosibirsk,
-Yekaterinburg,
-NizhniyNovgorod,
-Samara,
-Omsk,
-Kazan,
-Chelyabinsk,
-RostovnaDonu,
-Ufa,
-Perm,
-Volgograd,
-Krasnoyarsk,
-Voronezh,
-Saratov,
-Tolyatti,
-Krasnodar,
-Ulyanovsk,
-Izhevsk,
-Yaroslavl,
-Barnaul,
-Vladivostok,
-Irkutsk,
-Khabarovsk,
-Makhachkala,
-Orenburg,
-Novokuznetsk.
+*import [requests](https://requests.readthedocs.io/en/latest/index.html)*
+
+*import [json](https://docs.python.org/3/library/json.html)*
+
 
 ## Формат предоставления данных в excel:
 
-![image](https://user-images.githubusercontent.com/111370737/193848817-e78875ad-96b5-4b36-b651-1e79144d87de.png)
+![image](https://user-images.githubusercontent.com/111370737/194566837-41f419f3-fecf-44b4-83a7-196ec1190101.png)
 
 * ***date*** - дата, на которую сделан прогноз погоды.
 * ***time_of_day*** - время суток. Возможные значения: morning - утро, day - день, evening - вечер, night - ночь.
