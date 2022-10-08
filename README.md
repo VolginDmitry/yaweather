@@ -6,17 +6,17 @@
 
 Для работы скрипта требуются следующие библиотеки:
 
-*import [pandas](https://pandas.pydata.org/docs/)*
+*import [datetime](https://docs.python.org/3/library/datetime.html)*
 
 *from [geopy](https://geopy.readthedocs.io/en/stable/index.html) import geocoders*
 
-*import [sqlite3](https://docs.python.org/3/library/sqlite3.html)*
+*import [json](https://docs.python.org/3/library/json.html)*
 
-*import [datetime](https://docs.python.org/3/library/datetime.html)*
+*import [pandas](https://pandas.pydata.org/docs/)*
 
 *import [requests](https://requests.readthedocs.io/en/latest/index.html)*
 
-*import [json](https://docs.python.org/3/library/json.html)*
+*import [sqlite3](https://docs.python.org/3/library/sqlite3.html)*
 
 
 ## Формат предоставления данных в excel:
