@@ -6,8 +6,6 @@ import pandas as pd
 import requests
 import sqlite3 as sl
 
-
-
 # объявим переменную, которая будет содержать дату и время запроса
 now = datetime.datetime.now().strftime("%d-%m-%Y %H:%M")
 
